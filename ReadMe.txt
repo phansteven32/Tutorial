@@ -12,6 +12,9 @@ Programming 101
 Synopsis: Learning tools and languages
 	Applications: Outlook 2007, GitHub, Visual Studios 2005 & 2017
 	Languages: C#
+		Links:  https://github.com/
+				https://visualstudio.github.com/
+				https://www.visualstudio.com/
 Connect outlook 2007 with gmail. pop smtp.
 Make github for version control.
 Teach c# hello world. Free visual studio. 2005 and 2017.
